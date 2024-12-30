@@ -21,24 +21,28 @@ Other operating systems, such as Mac, are supported by ISHI-KAI.
 
 * https://github.com/ishi-kai/ishi-kai.gitnub.io/tree/main/assets/presentation/2025
 
-# 歴史 / History
-元は学部３年生を対象とした授業、「LSI回路設計Ⅰ」の演習資料として2023年3月に作成したものになります。
+# Contents 
+* Background knowledge of LSI
+* Demonstration of Analog LSI design: Make a CMOS inverter
+  * Draw schematics and test benches
+  * Simulation
+  * (Draw layouts based on schematics)
+  * Layout verification
+  * Post-layout simulation
+* Tips
+  * Multifinger and Mismatch simulation
+  * Monte Carolo simulation
+  * Analog switch and Pass Transistor Logic
+  * D latch and D flip-flop (In-class exercises in 2023)
 
-It was originally created in March 2023 as an exercise document for “LSI Circuit Design I”, a class for third-year undergraduate students.
-
-開発環境、ラボデータ、ドキュメントを全て作成し、大学に在籍していた2023年・2024年に演習を実施いたしました。
+# History
+It was created in March 2023 as an exercise document for “LSI Circuit Design I”, a class for third-year undergraduate students.
 
 I created the entire development environment, lab data, and documentation, and conducted the exercises in 2023 and 2024 when I was enrolled in the university.
-
-また同時並行でishi会でも同様のハンズオンを実施しました。いくつか実施していますが、初回は2023年11月です。
 
 Concurrently, I have also conducted almost same hands-on in ISHI-KAI. Several have been performed, the first is in November 2023.
 
 * 2023年11月イベント「OpenMPW GF-1応募勉強会」勉強会 <BR>
   https://ishikai.connpass.com/event/301114/
-
-
-
-まだまだ更新中です。
 
 I am still updating this.
