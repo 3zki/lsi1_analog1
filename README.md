@@ -32,10 +32,10 @@ I created the entire development environment, lab data, and documentation, and c
 
 また同時並行でishi会でも同様のハンズオンを実施しました。いくつか実施していますが、初回は2023年11月です。
 
-Concurrently, I have also conducted almost same hands-on in ISHI-KAI. Several have been conducted, the first is in November 2023.
+Concurrently, I have also conducted almost same hands-on in ISHI-KAI. Several have been performed, the first is in November 2023.
 
-* 2023年11月イベント「OpenMPW GF-1応募勉強会」勉強会
-https://ishikai.connpass.com/event/301114/
+* 2023年11月イベント「OpenMPW GF-1応募勉強会」勉強会 <BR>
+  https://ishikai.connpass.com/event/301114/
 
 
 
