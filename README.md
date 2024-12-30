@@ -31,7 +31,7 @@ Other operating systems, such as Mac, are supported by ISHI-KAI.
   * Post-layout simulation
 * Tips
   * Multifinger and Mismatch simulation
-  * Monte Carolo simulation
+  * Monte Carlo simulation
   * Analog switch and Pass Transistor Logic
   * D latch and D flip-flop (In-class exercises in 2023)
 
@@ -40,7 +40,7 @@ It was created in March 2023 as an exercise document for “LSI Circuit Design I
 
 I created the entire development environment, lab data, and documentation, and conducted the exercises in 2023 and 2024 when I was enrolled in the university.
 
-Concurrently, I have also conducted almost same hands-on in ISHI-KAI. Several have been performed, the first is in November 2023.
+Concurrently, I have also conducted almost the same hands-on in ISHI-KAI. Several have been performed, the first is in November 2023.
 
 * 2023年11月イベント「OpenMPW GF-1応募勉強会」勉強会 <BR>
   https://ishikai.connpass.com/event/301114/
